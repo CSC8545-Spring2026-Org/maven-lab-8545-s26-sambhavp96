@@ -4,7 +4,7 @@ public class ConsoleApp {
 
     public static void main(String[] args) {
         
-        System.out.println("Hello Maven, Workflow!");
+        System.out.println("Hello Maven!");
         
     }
 
